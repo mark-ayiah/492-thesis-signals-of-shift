@@ -1,0 +1,12 @@
+pandas
+numpy
+matplotlib
+seaborn
+google-api-python-client
+langdetect
+tqdm
+wordcloud
+scikit-learn
+scipy
+emoji
+jupyter
