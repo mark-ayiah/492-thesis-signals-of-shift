@@ -121,4 +121,4 @@ This project is for academic and research purposes only. The tweet datasets are 
 
 ## Contact
 
-For questions about this research, please contact [your-email@example.com].
+For questions about this research, please contact [mark.ayiah@yale.edu].
